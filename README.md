@@ -16,11 +16,11 @@ The camp introduced students to foundational concepts in Python programming, mac
 
 Students learned the fundamentals of Python programming, including variables, data types, conditional statements, loops, functions, and basic data manipulation.
 
-### Day 2: Machine Learning and Guest Lecture
+### Day 2: Machine Learning and Guest Demo
 
 Students were introduced to core machine learning concepts and participated in hands-on activities involving data, features, model training, prediction, and evaluation.
 
-The day also included a guest lecture.
+The day also included a guest demo on the use of AI in robotics.
 
 ### Day 3: Deep Learning and Group Project Launch
 
@@ -32,7 +32,7 @@ Students also formed groups and began working on their final projects.
 
 Students learned how large language models work and explored how generative AI applications can be built using prompts and application programming interfaces.
 
-Groups continued developing their projects, and the day included an additional guest lecture.
+Groups continued developing their projects, and the day included a guest lecture on the use of AI in medical applications and an AR/VR demo.
 
 ### Day 5: Project Wrap-Up and Final Presentations
 
