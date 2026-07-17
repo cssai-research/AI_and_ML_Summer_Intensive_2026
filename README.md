@@ -36,7 +36,7 @@ Groups continued developing their projects, and the day included a guest lecture
 
 ### Day 5: Project Wrap-Up and Final Presentations
 
-Students completed their group projects and presented their work to instructors, peers, and camp participants.
+Students completed their group projects and presented their work to instructors, parents, and peers.
 
 ## Repository Contents
 
